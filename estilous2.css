@@ -1,0 +1,28 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	color: #666;
+	background: #f2f2f2; 
+	font-size: 1em;
+	line-height: 1.5em;
+	
+}
+#Tabla {
+	position:absolute;
+	top: 25%;
+	left: 12%;
+}
+#El-llamado {
+	position: absolute;
+	left: 60%;
+	top: 25%;
+	width: 364px;
+	height: 326px;
+	z-index: 2;
+	border-color: #8258FA;
+}
+#edicion {
+	position: absolute;
+	left: 12%;
+	top: 70%;
+}
+
